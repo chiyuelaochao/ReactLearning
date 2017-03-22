@@ -1,2 +1,2 @@
 # ReactLearning
-ract
+This is my private React learning homework.
